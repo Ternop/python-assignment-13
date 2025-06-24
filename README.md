@@ -1,3 +1,7 @@
+## Project Description
+
+This program allows users to manage personal expenses by entering a description, category, and amount. It organizes the data using dictionaries and provides full summaries and listings.
+
 # python-assignment-13 
  
 This is a command-line Python program for Assignment 13. 
@@ -18,3 +22,4 @@ python Assignment 13.py
 - Exception Handling 
 - Input Validation 
 - Loops
+
